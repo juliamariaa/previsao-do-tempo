@@ -1,0 +1,12 @@
+h1{
+  font-size: 48px;
+  color: #fff;
+  text-align: center;
+  margin-top: 56px;
+}
+
+.loading{
+  color: #fff;
+  display: flex;
+  justify-content: center;
+}
