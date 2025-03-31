@@ -1,12 +1,23 @@
-# React + Vite
+# Previsão do Tempo - React.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicativo simples de previsão do tempo desenvolvido com React.js, Axios e Vite. Permite consultar a temperatura atual de qualquer cidade digitando seu nome. Caso a cidade não seja encontrada, uma mensagem de erro será exibida.
 
-Currently, two official plugins are available:
+## Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React.js - Biblioteca para construção da interface
 
-## Expanding the ESLint configuration
+Axios - Para realizar requisições HTTP
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Vite - Ferramenta para criação e build do projeto
+
+## Design
+
+O design da aplicação foi criado por mim, garantindo uma interface intuitiva e amigável para o usuário.
+
+## Portfólio
+
+Veja mais dos meus projetos no Behance, [acesse meu portifólio clicando aqui](https://www.behance.net/juliamariadev).
+
+## Contato
+
+Conecte-se comigo no [Linkedln](https://www.linkedin.com/in/j%C3%BAlia-maria/)
