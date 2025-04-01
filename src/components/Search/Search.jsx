@@ -16,7 +16,7 @@ const Search = ({ valueInput, getWeather }) => {
       </div>
 
       <button type="submit">
-        <img src="src/assets/lupa.svg" alt="Lupa" />
+        <img src="public/lupa.svg" alt="Lupa" />
       </button>
     </form>
   );
